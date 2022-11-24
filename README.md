@@ -12,7 +12,7 @@ Clone or download this repository and run with a local server of open `index.htm
 
 ## Features
 
-- Backgroud Change
+- Background Changer
 
 ## Tech/framework used
 
